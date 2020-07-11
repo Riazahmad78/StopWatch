@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    text-align: center;
+
+
+}
+h1{
+    color: black;
+    display: inline-block;
+    width: 100px;
+  background-color:#ffff;
+}
+button{
+   background-color: cadetblue;
+
+}
+h2
+{
+    color: cornflowerblue;
+    font-size: 35px;
+    
+}
